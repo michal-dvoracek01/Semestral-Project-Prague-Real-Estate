@@ -8,7 +8,7 @@ A comprehensive end-to-end data science project that scrapes real estate listing
 
 This repository contains a full pipeline that:
 
-1. **Scrapes Data**: Fetches hundreds of real estate listings (~2500-3500)asynchronously from [Sreality.cz](https://www.sreality.cz) (the largest Czech real estate portal).
+1. **Scrapes Data**: Fetches hundreds of real estate listings (~2500-3500) from [Sreality.cz](https://www.sreality.cz) (the largest Czech real estate portal).
 
 2. **Geolocates**: Uses the Google Maps API to obtain exact GPS coordinates for all Prague Metro stations.
 
