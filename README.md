@@ -57,7 +57,7 @@ SemestralProject/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/SemestralProject.git
+   git clone https://github.com/michal-dvoracek01/SemestralProject.git
    cd SemestralProject
    ```
 
