@@ -57,8 +57,8 @@ SemestralProject/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/michal-dvoracek01/SemestralProject.git
-   cd SemestralProject
+   git clone https://github.com/michal-dvoracek01/Semestral-Project-Prague-Real-Estate.git
+   cd Semestral-Project-Prague-Real-Estate
    ```
 
 2. **Create a virtual environment:**
