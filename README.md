@@ -63,8 +63,8 @@ SemestralProject/
 
 2. **Create a virtual environment:**
    ```bash
-   conda create -n project_m4 python=3.11
-   conda activate project_m4
+   conda create -n project_real_estate python=3.11
+   conda activate project_real_estate
    ```
 
 3. **Install dependencies:**
@@ -72,7 +72,7 @@ SemestralProject/
    pip install -r requirements.txt
    ```
 
-4. **Set up Google Maps API:**
+4. **(Optional) Set up Google Maps API:**
    - Obtain an API key from [Google Cloud Console](https://console.cloud.google.com/)
    - Enable the **Places API** and **Geocoding API**
    - Store your API key in an environment variable or configuration file:
@@ -101,6 +101,15 @@ The FGLS model is pre-trained and stored in `estate_model.pkl`. To retrain:
 1. Open `Estate_PRG.ipynb` to see the configuration in notebook
 2. Change parameters in `main.py` and run
 3. The model will be saved automatically
+---
+
+## 🐍 Running the Script
+
+### Main.py
+
+```bash
+python main.py
+```
 
 ---
 
